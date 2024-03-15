@@ -50,5 +50,5 @@ This streamlit app contains the following section:
     </div>
 </div>
 =======
-# Mood-based-music-recommendation-system
+# Emotion-based-music-recommendation-system : 
 This is a music recommendation system which recommends music based on the users emotion using NLP model (Bidirectional LSTM) to interpret and respond to users' emotional expressions in textual input. Goal of the project was to create a novel and user-centric music discovery experience.
