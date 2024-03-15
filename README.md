@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Emotion-Based-Music-Recommendation-System
 ---
@@ -11,7 +10,7 @@ This project uses Spotify and Genius to recommend music along with Spotify widge
 
 This streamlit app contains the following section:
 
-* &#127909; Recommendation: This section lets the user ask for Text Based, Video Based or Audio Based recommendations, after greeting the user with popular movies specific to a given genre as well as over the entire dataset.
+* &#127909; Recommendation: This section lets the user ask for Text Based recommendation, after greeting the user with popular movies specific to a given genre as well as over the entire dataset.
 
 <br>
 
@@ -53,4 +52,3 @@ This streamlit app contains the following section:
 =======
 # Mood-based-music-recommendation-system
 This is a music recommendation system which recommends music based on the users emotion using NLP model (Bidirectional LSTM) to interpret and respond to users' emotional expressions in textual input. Goal of the project was to create a novel and user-centric music discovery experience.
->>>>>>> 37d58c864f689afc965aa8930c21d0045cbaf643
